@@ -154,13 +154,13 @@ a {
 
 // Credit: https://codepen.io/aaroniker/pen/BajabVN
 .btn-email {
-  --primary: #3b82f6;
-  --primary-dark: #0455d8;
-  --primary-darkest: #013281;
+  --primary: #9f3bf6;
+  --primary-dark: #6304d8;
+  --primary-darkest: #270181;
   --shadow: #{rgba(#000, 0.3)};
   --text: #fff;
   --text-opacity: 1;
-  --success: #3b82f6;
+  --success: #9f3bf6;
   --success-x: -12;
   --success-stroke: 14;
   --success-opacity: 0;
@@ -172,7 +172,7 @@ a {
   --plane-x: 0;
   --plane-y: 0;
   --plane-opacity: 1;
-  --trails: #{rgba(#3b82f6, 0.15)};
+  --trails: #{rgba(#9f3bf6, 0.15)};
   --trails-stroke: 57;
   --left-wing-background: var(--primary);
   --left-wing-first-x: 0;
@@ -349,8 +349,8 @@ a {
 }
 
 .blue-link-underline {
-  color: #0b63f3;
-  border-bottom: 1px solid #0b63f3;
+  color: #9f3bf6;
+  border-bottom: 1px solid #9f3bf6;
 }
 
 .flex {
