@@ -379,7 +379,7 @@ header nav .nav-container #logo {
 }
 
 header nav .nav-container #logo img {
-  width: 40%;  /* Ajuste ce pourcentage selon tes besoins */
+  width: 36%;  /* Ajuste ce pourcentage selon tes besoins */
   max-width: 200px;  /* Limite la largeur maximale */
   height: auto;  /* Conserve les proportions de l'image */
 }
